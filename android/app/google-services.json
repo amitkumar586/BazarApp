@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332434176785",
+    "project_id": "bazar-edb21",
+    "storage_bucket": "bazar-edb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332434176785:android:1d159bf2ddac2905cbeab0",
+        "android_client_info": {
+          "package_name": "com.example.bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332434176785-u0c0dh1mkvjkv130g47p7bcqi7p5dp95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2f_kMojBecghhDTf0UVtva3Y_0xI7EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332434176785-u0c0dh1mkvjkv130g47p7bcqi7p5dp95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
